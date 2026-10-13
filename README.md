@@ -1,5 +1,5 @@
 <a href="https://kryo.to">
-  <img src="./assets/banner-profile.png" alt="Kryoto. Just games. No noise." width="100%" />
+  <img src="./assets/banner.gif" alt="Kryoto. Just games. No noise." width="100%" />
 </a>
 
 Personal account for **[Kryoto](https://kryo.to)**, a game catalog. Find a game, download it, play it.
